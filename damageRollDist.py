@@ -89,7 +89,7 @@ class damageRollDist:
                 
         mu = self.mean 
         sigma = self.std
-
+        #The following 7 lines are from Google Gemini.
         color_3sigma = '#BDD7EE' # Lightest shade
         color_2sigma = '#92C5DE' # Medium shade
         color_1sigma = '#4B9CD3' # Darker shade
